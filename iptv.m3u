@@ -117,11 +117,11 @@ http://192.168.2.1:4022/rtp/239.253.232.57:8000
 http://192.168.2.1:4022/rtp/239.253.232.121:8000
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="卫视频道",厦门卫视
 http://192.168.2.1:4022/rtp/239.253.232.106:8000
-#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="卫视频道",CETV1
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="卫视频道",中国教育1台
 http://192.168.2.1:4022/rtp/239.253.232.110:8000
-#EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="卫视频道",CETV2
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="卫视频道",中国教育2台
 http://192.168.2.1:4022/rtp/239.253.232.107:8000
-#EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="卫视频道",CETV4
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="卫视频道",中国教育4台
 http://192.168.2.1:4022/rtp/239.253.232.116:8000
 #EXTINF:-1 tvg-name="IHOT爱体育" tvg-logo="https://live.fanmingming.com/tv/IHOT爱体育.png" group-title="卫视频道",IHOT爱体育
 http://192.168.2.1:4022/rtp/239.253.232.109:8000
