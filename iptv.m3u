@@ -1,8 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 
-#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://live.fanmingming.com/tv/山东生活.png" group-title="卫视频道",山东生活
-http://192.168.2.1:4022/udp/239.253.232.20:8000
-
 #EXTINF:-1 tvg-name="山东体育休闲" tvg-logo="" group-title="卫视频道",山东体育休闲
 http://192.168.2.1:4022/udp/239.253.232.22:8000
 
