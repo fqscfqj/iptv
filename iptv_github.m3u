@@ -1,0 +1,117 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/e.xml"
+
+############ 央视频道 ############
+#EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
+http://192.168.2.1:4022/udp/239.253.232.77:8000
+#EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
+http://192.168.2.1:4022/udp/239.253.232.232:8000
+#EXTINF:-1 tvg-name="CCTV-3 综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
+http://192.168.2.1:4022/udp/239.253.232.191:8000
+#EXTINF:-1 tvg-name="CCTV-4 中文国际" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
+http://192.168.2.1:4022/udp/239.253.232.111:8000
+#EXTINF:-1 tvg-name="CCTV-5 体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
+http://192.168.2.1:4022/udp/239.253.232.192:8000
+#EXTINF:-1 tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
+http://192.168.2.1:4022/udp/239.253.232.80:8000
+#EXTINF:-1 tvg-name="CCTV-6 电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
+http://192.168.2.1:4022/udp/239.253.232.193:8000
+#EXTINF:-1 tvg-name="CCTV-7 国防军事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
+http://192.168.2.1:4022/udp/239.253.232.233:8000
+#EXTINF:-1 tvg-name="CCTV-8 电视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
+http://192.168.2.1:4022/udp/239.253.232.194:8000
+#EXTINF:-1 tvg-name="CCTV-9 纪录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录
+http://192.168.2.1:4022/udp/239.253.232.79:8000
+#EXTINF:-1 tvg-name="CCTV-10 科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV10.png" group-title="央视频道",CCTV-10 科教
+http://192.168.2.1:4022/udp/239.253.232.234:8000
+#EXTINF:-1 tvg-name="CCTV-11 戏曲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
+http://192.168.2.1:4022/udp/239.253.232.169:8000
+#EXTINF:-1 tvg-name="CCTV-12 社会与法" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
+http://192.168.2.1:4022/udp/239.253.232.235:8000
+#EXTINF:-1 tvg-name="CCTV-13 新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
+http://192.168.2.1:4022/udp/239.253.232.175:8000
+#EXTINF:-1 tvg-name="CCTV-14 少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿
+http://192.168.2.1:4022/udp/239.253.232.236:8000
+#EXTINF:-1 tvg-name="CCTV-15 音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
+http://192.168.2.1:4022/udp/239.253.232.170:8000
+#EXTINF:-1 tvg-name="CCTV-17 农业农村" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
+http://192.168.2.1:4022/udp/239.253.232.168:8000
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清
+http://192.168.2.1:4022/udp/239.253.232.122:8000
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CGTN.png" group-title="央视频道",CGTN 国际
+http://192.168.2.1:4022/udp/239.253.232.189:8000
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CGTN纪录.png" group-title="央视频道",CGTN纪录
+http://192.168.2.1:4022/udp/239.253.232.188:8000
+
+############ 省级卫视 ############
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/北京卫视.png" group-title="省级卫视",北京卫视
+http://192.168.2.1:4022/udp/239.253.232.85:8000
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/湖南卫视.png" group-title="省级卫视",湖南卫视
+http://192.168.2.1:4022/udp/239.253.232.82:8000
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/浙江卫视.png" group-title="省级卫视",浙江卫视
+http://192.168.2.1:4022/udp/239.253.232.84:8000
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/东方卫视.png" group-title="省级卫视",东方卫视
+http://192.168.2.1:4022/udp/239.253.232.86:8000
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/江苏卫视.png" group-title="省级卫视",江苏卫视
+http://192.168.2.1:4022/udp/239.253.232.83:8000
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/山东卫视.png" group-title="省级卫视",山东卫视
+http://192.168.2.1:4022/udp/239.253.232.78:8000
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/广东卫视.png" group-title="省级卫视",广东卫视
+http://192.168.2.1:4022/udp/239.253.232.90:8000
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/深圳卫视.png" group-title="省级卫视",深圳卫视
+http://192.168.2.1:4022/udp/239.253.232.91:8000
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/重庆卫视.png" group-title="省级卫视",重庆卫视
+http://192.168.2.1:4022/udp/239.253.232.38:8000
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/四川卫视.png" group-title="省级卫视",四川卫视
+http://192.168.2.1:4022/udp/239.253.232.180:8000
+
+############ 山东本地频道 ############
+#EXTINF:-1 tvg-name="山东体育休闲" tvg-logo="" group-title="山东频道",山东体育休闲
+http://192.168.2.1:4022/udp/239.253.232.22:8000
+#EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/山东新闻.png" group-title="山东频道",山东新闻
+http://192.168.2.1:4022/udp/239.253.232.23:8000
+#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/山东农科.png" group-title="山东频道",山东农科
+http://192.168.2.1:4022/udp/239.253.232.24:8000
+#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/山东少儿.png" group-title="山东频道",山东少儿
+http://192.168.2.1:4022/udp/239.253.232.25:8000
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/山东教育.png" group-title="山东频道",山东教育
+http://192.168.2.1:4022/udp/239.253.232.59:8000
+#EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/山东齐鲁.png" group-title="山东频道",山东齐鲁
+http://192.168.2.1:4022/udp/239.253.232.114:8000
+#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/山东综艺.png" group-title="山东频道",山东综艺
+http://192.168.2.1:4022/udp/239.253.232.159:8000
+#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/山东文旅.png" group-title="山东频道",山东文旅
+http://192.168.2.1:4022/udp/239.253.232.160:8000
+
+############ 特色频道 ############
+#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/纪实人文.png" group-title="特色频道",纪实人文
+http://192.168.2.1:4022/udp/239.253.232.120:8000
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/法治天地.png" group-title="特色频道",法治天地
+http://192.168.2.1:4022/udp/239.253.232.96:8000
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/生活时尚.png" group-title="特色频道",生活时尚
+http://192.168.2.1:4022/udp/239.253.232.99:8000
+#EXTINF:-1 tvg-name="财富天下" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/财富天下.png" group-title="特色频道",财富天下
+http://192.168.2.1:4022/udp/239.253.232.147:8000
+#EXTINF:-1 tvg-name="老故事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/老故事.png" group-title="特色频道",老故事
+http://192.168.2.1:4022/udp/239.253.232.164:8000
+
+############ 卡通频道 ############
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/哈哈炫动.png" group-title="卡通频道",哈哈炫动
+http://192.168.2.1:4022/udp/239.253.232.63:8000
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/嘉佳卡通.png" group-title="卡通频道",嘉佳卡通
+http://192.168.2.1:4022/udp/239.253.232.65:8000
+#EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/卡酷少儿.png" group-title="卡通频道",卡酷动画
+http://192.168.2.1:4022/udp/239.253.232.66:8000
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/金鹰卡通.png" group-title="卡通频道",金鹰卡通
+http://192.168.2.1:4022/udp/239.253.232.117:8000
+
+############ 付费频道 ############
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CHC家庭影院.png" group-title="付费频道",CHC家庭影院
+http://192.168.2.1:4022/udp/239.253.232.152:8000
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CHC动作电影.png" group-title="付费频道",CHC动作电影
+http://192.168.2.1:4022/udp/239.253.232.153:8000
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CHC影迷电影.png" group-title="付费频道",CHC影迷电影
+http://192.168.2.1:4022/udp/239.253.232.154:8000
+
+############ 电台广播 ############
+#EXTINF:-1 tvg-name="山东经济广播" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/radio/山东经济广播.png" group-title="电台",山东经济广播
+http://192.168.2.1:4022/udp/239.253.232.166:8000
