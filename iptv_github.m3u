@@ -97,11 +97,11 @@ http://192.168.2.1:4022/udp/239.253.232.164:8000
 ############ 卡通频道 ############
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/哈哈炫动.png" group-title="卡通频道",哈哈炫动
 http://192.168.2.1:4022/udp/239.253.232.63:8000
-EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/嘉佳卡通.png" group-title="卡通频道",嘉佳卡通
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/嘉佳卡通.png" group-title="卡通频道",嘉佳卡通
 http://192.168.2.1:4022/udp/239.253.232.65:8000
-EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/卡酷少儿.png" group-title="卡通频道",卡酷动画
+#EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/卡酷少儿.png" group-title="卡通频道",卡酷动画
 http://192.168.2.1:4022/udp/239.253.232.66:8000
-EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/金鹰卡通.png" group-title="卡通频道",金鹰卡通
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/金鹰卡通.png" group-title="卡通频道",金鹰卡通
 http://192.168.2.1:4022/udp/239.253.232.117:8000
 
 ############ 付费频道 ############
